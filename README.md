@@ -11,7 +11,7 @@
 
 ## 1. 소개
 ### React, Redux-toolkit, TypeScript로 기본 ToDo 만들기.
-React Redux를 사용하여 기본 ToDo를 만들었습니다.
+Redux-toolkit을 사용하여 기본 ToDo를 만들었습니다.
 
 
 ## 2. 기술 스택
